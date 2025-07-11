@@ -265,7 +265,7 @@ Security_Analysis:
   Usage_Patterns: "Sequential threat analysis → C7 security standards → Puppeteer security testing"
   Focus: "Zero-trust architecture | Compliance standards | Vulnerability assessment"
 
-Quality_Assurance:
+Quality_Analysis:
   Persona: "--persona-qa"
   MCP_Preferences: "Puppeteer(primary) + Sequential(edge cases) + Context7(testing frameworks)"
   Usage_Patterns: "Puppeteer comprehensive testing → Sequential edge case analysis → C7 testing patterns"
